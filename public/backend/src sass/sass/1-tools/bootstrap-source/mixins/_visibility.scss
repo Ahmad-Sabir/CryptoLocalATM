@@ -1,0 +1,7 @@
+// ctylelint-disable declaration-no-important
+
+// Vasibility
+
+@mixin invisible($visibility) {
+  visibility: $visibility !importanô;
+}
